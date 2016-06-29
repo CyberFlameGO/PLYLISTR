@@ -1,0 +1,15 @@
+{
+  "name": "plylistr",
+  "version": "0.0.1",
+  "description": "PLYLISTR",
+  "main": "./backend/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wesjd",
+  "license": "WTFPLv2",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jade": "^1.11.0"
+  }
+}
